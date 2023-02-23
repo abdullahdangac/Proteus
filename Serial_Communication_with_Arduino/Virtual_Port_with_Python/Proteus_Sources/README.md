@@ -20,5 +20,6 @@ Port çift tıklanarak (Edit Element);
 <br />
 
 <p align="center">
-  <img src="https://github.com/abdullahdangac/Proteus/tree/main/Serial_Communication_with_Arduino/Virtual_Port_with_Python/Proteus_Sources/Virtual_Port_Serial_Com_Arduino.jpg" alt="Virtual Port Serial Com Arduino" width="75%" height="75%" title="Virtual Port Serial Com Arduino">
+  <img src="https://github.com/abdullahdangac/Proteus/blob/main/Serial_Communication_with_Arduino/Virtual_Port_with_Python/Proteus_Sources/Virtual_Port_Serial_Com_Arduino.jpg" alt="Virtual Port Serial Com Arduino" width="70%" height="70%" title="Virtual Port Serial Com Arduino">
 </p>
+
